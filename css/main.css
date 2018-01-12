@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .jumbotron{
-    background-image: url(./img/jumbo-1.jpg); 
+    background-image:url(https://raw.githubusercontent.com/reev0036/bootstrap-site/gh-pages/img/jumbo-1.jpg); 
     background-repeat: no-repeat; 
     background-position: center;
 }
